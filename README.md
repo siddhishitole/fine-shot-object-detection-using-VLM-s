@@ -38,7 +38,7 @@ Place the images under test/refcoco_images and test/vg_images folders respective
 1. Clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/Ulorewien/FineShot.git
+git clone (https://github.com/siddhishitole/fine-shot-object-detection-using-VLM-s)
 cd FineShot
 ```
 
